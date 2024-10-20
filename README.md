@@ -1,5 +1,4 @@
-# Vigenere
-Vigenere Cipherer &amp; Decipherer
+# Vigenère Cipherer &amp; Decipherer
 
 A simple program to generate ciphers and deciphers of the Vigenère cipher.
 It took me about 4 hours to make in total. 2.5 hours of which were spent on the cipher functions. The decipher was
